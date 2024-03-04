@@ -27,5 +27,4 @@ logs
 # nuxt files
 
 .nuxt.config.ts
-
 tsconfig.json
